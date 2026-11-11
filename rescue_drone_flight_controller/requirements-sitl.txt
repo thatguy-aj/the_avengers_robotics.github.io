@@ -1,0 +1,3 @@
+# MAVSDK gRPC Python wrapper used by flight_controller.py
+# This is not the native mavsdk package.
+mavsdk-grpc==4.0.5
